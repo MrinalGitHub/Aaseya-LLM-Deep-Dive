@@ -255,7 +255,7 @@ Participants are welcome to use the knowledge gained for educational and profess
 
 ---
 
-**Made with ❤️ by Aaseya IT Solutions**
+**Made by Aaseya AI Practice**
 
 ![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-blue?style=flat-square)
